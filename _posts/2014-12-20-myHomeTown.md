@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mannargudi
+title: Mannargudi [Personal]
 ---
 
 Gopalasamudram, [Mannargudi](http://en.wikipedia.org/wiki/Mannargudi) is where my elders and ancestors lived. My great grandfather Sri. U. Ve. Mannargudi Gopalan Iynegar was a practicing doctor at Gopalasamudram and later on moved to then Madras.
