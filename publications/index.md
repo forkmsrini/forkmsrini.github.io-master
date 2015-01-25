@@ -36,7 +36,7 @@ Projects & activities through various collaborations that have lead to an public
 <div align="center">
 <table text-align="center">
 <tr>
-<td><a href='http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en'><img src='/public/images/GoogleScholar.jpg' width='150' border='0'></a></td>
+<td><a href='http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en'><img src='/public/images/GoogleScholar.png' width='150' border='0'></a></td>
 </tr>
 </table>
 </div>
