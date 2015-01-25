@@ -7,6 +7,7 @@ permalink: /contact/
 Email:
 firstName AT mile DOT ee DOT iisc DOT ernet DOT in
 
+Find me else where on the web
 <div align="center">
 <table text-align="center">
 <tr>
