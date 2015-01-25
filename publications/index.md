@@ -31,7 +31,7 @@ Projects & activities through various collaborations that have lead to an public
 * Ramesh R.; Vijayaraghavan V.; *Srinivasan, M.;* and Vijayakumar S., ``An Avant Garde Augmentation of Quality-of-Service In Rural Microgrids Via Cloud-Based Arduino-Enabled Control and Communication'', The 2013 IEEE Workshop on Environmental, Energy and Structural Monitoring Systems (EESMS'13), Sept. 2013.
 * *Srinivasan, M.;* Ramesh R.; Vijayakumar S.; and Vijayaraghavan V.; ``Low-Cost Cloud-Based Design of Smart Rural Energy Device in Microgrid: Perspective India. An Energy-On-Demand Service for Rural India'', 2013 IEEE Conference on Technologies for Sustainability – Engineering and the Environment (SusTech'13), Aug. 2013.
 
-Comming Soon...
+
 <hr/>
 <div align="center">
 <table text-align="center">
