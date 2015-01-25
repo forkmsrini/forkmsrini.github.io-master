@@ -1,0 +1,28 @@
+markdown: redcarpet
+highlighter: pygments
+permalink: /:title/
+
+url: http://forkmsrini.github.io/
+baseurl:
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: mukundhan5291
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
