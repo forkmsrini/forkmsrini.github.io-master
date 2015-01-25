@@ -40,6 +40,4 @@ Projects & activities through various collaborations that have lead to an public
 </tr>
 </table>
 </div>
-
-<hr/>
 <hr/>
