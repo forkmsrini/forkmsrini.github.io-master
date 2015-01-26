@@ -16,7 +16,7 @@ OneLiner: Average Joe with interest in artificial intelligence.
 
 <h3>Work</h3>
 
-I currently work as a Project Assistant at the [Medical Intelligence and Language Engineeing (MILE) Lab](http://mile.ee.iisc.ernet.in/mile/index.html), [Department of Electrical Engineering](http://www.ee.iisc.ernet.in/), [Indian Institute of Science (IISc)](http://www.iisc.ernet.in/), Bangalore. 
+I currently work as a Project Assistant at the [Medical Intelligence and Language Engineering (MILE) Lab](http://mile.ee.iisc.ernet.in/mile/index.html), [Department of Electrical Engineering](http://www.ee.iisc.ernet.in/), [Indian Institute of Science (IISc)](http://www.iisc.ernet.in/), Bangalore. 
 
 <div align="center">
 <table text-align="center">
@@ -28,13 +28,15 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 
 <h3>Research Interest</h3>
 
-I'm inquisitive about the working of our brain and would like to build applications using artificial inetelligence that mimic the nous. I'm particularly interested **Machine Learning** with appplication in Computer Vision and Game theory (yet to explore). Theoretical aspects of Statistics like probability modelling intrigue me. 
+I'm inquisitive about the working of our brain and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested **Machine Learning** with application in Computer Vision and Game theory (yet to explore). Theoretical aspects of Statistics like probability modelling intrigue me. 
 
 A wordle of my interests.
 <img style="float:right" src="/public/images/riWordle.jpg">
 
 <h3>Other Interest</h3>
 
-I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favorite artist.
+I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favourite artist. I'm in the process of learning the parts of [Yajurveda](http://en.wikipedia.org/wiki/Yajurveda) (यजुर्वेदः), and [Naalayira Divya Prabhandham](http://en.wikipedia.org/wiki/Naalayira_Divya_Prabhandham) (நாலாயிரத் திவ்வியப் பிரபந்தம்). 
+
+I volunteer at the local [IEEE](http://bcp.ieeebangalore.org/) section.
 
 <hr/>
