@@ -4,7 +4,13 @@ title: Home
 permalink: /
 ---
 
-Vanakkam!!
+<div align="center">
+<table text-align="center">
+<tr>
+<td>Vanakkam!!</td><td><img src='/public/images/vanakkam.png' width='100' border='0'></td>
+</tr>
+</table>
+</div>
 
 OneLiner: Average Joe with interest in artificial intelligence.
 
