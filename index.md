@@ -7,7 +7,7 @@ permalink: /
 <div align="center">
 <table text-align="center">
 <tr>
-<td>Vanakkam!!</td><td><img src='/public/images/vanakkam.png' width='38' border='0'></td>
+<td>Vanakkam!!</td><td><img src='/public/images/vanakkam.png' width='32' border='0'></td>
 </tr>
 </table>
 </div>
