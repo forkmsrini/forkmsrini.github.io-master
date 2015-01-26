@@ -12,7 +12,6 @@ permalink: /
 </table>
 </div>
 
-OneLiner: Average Joe with interest in artificial intelligence.
 
 <h3>Work</h3>
 
