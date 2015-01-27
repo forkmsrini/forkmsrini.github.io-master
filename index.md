@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<div align="center">
+<div align="left">
 <table text-align="center">
 <tr>
 <td>Vanakkam!!</td><td><img src='/public/images/vanakkam.png' width='33' border='0'></td>
