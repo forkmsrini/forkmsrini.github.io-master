@@ -27,7 +27,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 
 <h3>Research Interest</h3>
 
-I'm inquisitive about the working of our brain and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested **Machine Learning** with application in Computer Vision and Game theory (yet to explore). Theoretical aspects of Statistics like probability modelling intrigue me. 
+I'm inquisitive about the working of our brain and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me. 
 
 A wordle of my interests.
 <img style="float:right" src="/public/images/riWordle.jpg">
