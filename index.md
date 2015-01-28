@@ -32,12 +32,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me. 
 
 A wordle of my interests.
-<table text-align="center">
-<tr>
-<td><img src='/public/images/riWordle.jpg'border='0'></td>
-</tr>
-</table>
-</div>
+<img style="float:right" src="/public/images/riWordle.jpg">
 
 <hr/>
 
