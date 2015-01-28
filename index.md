@@ -34,7 +34,6 @@ I'm inquisitive about the working of our brain, its cognitive architecture and w
 A wordle of my interests.
 <img style="float:right" src="/public/images/riWordle.jpg">
 
-<hr/>
 
 <h3>Other Interest</h3>
 
