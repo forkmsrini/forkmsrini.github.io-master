@@ -32,9 +32,15 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me. 
 
 A wordle of my interests.
-<img style="float:right" src="/public/images/riWordle.jpg">
+<table text-align="center">
+<tr>
+<td><img src='/public/images/riWordle.jpg'border='0'></td>
+</tr>
+</table>
+</div>
 
 <hr/>
+
 <h3>Other Interest</h3>
 
 I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favourite artist. I'm learning some parts of [Yajurveda](http://en.wikipedia.org/wiki/Yajurveda) (यजुर्वेदः), and [Naalayira Divya Prabhandham](http://en.wikipedia.org/wiki/Naalayira_Divya_Prabhandham) (நாலாயிரத் திவ்வியப் பிரபந்தம்). 
