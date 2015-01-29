@@ -31,7 +31,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 
 I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me. 
 
-I would like to explore topics like optimization of large-scale learning, design of  multi-agent systems and adaptive algorithms for game/mechanism design. Basically, I seek to narrow down on potential hypothesis that I want to persue at my doctoral level research.   
+I would like to explore topics like optimization of large-scale learning, design of  multi-agent systems (DAI) and adaptive algorithms for game/mechanism design. Basically, I seek to narrow down on potential hypothesis that I want to persue at my doctoral level research.   
 
 A wordle of my interests.
 <img style="float:right" src="/public/images/riWordle.jpg">
