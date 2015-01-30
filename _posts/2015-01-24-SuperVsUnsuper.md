@@ -54,6 +54,8 @@ Unsupervised learning: Types of Clustering, K-means, Self Organising Maps.
 
 It is worth mentioning that there are two more types of learning in addition to the above mentioned. They are weakly-supervised and semi-supervised learning.
 
+<hr/>
+
 ###Alert Note
 The example used here is tricky (not in the technical sense) and might not be familiar to all. The nomenclature is highly locale specific. Don't get confused by learning activity and trivialise the complex nature of human learning capabilities with machines. The content and quality of any book is not debated here. I draw references to explain the ways of preparing for a quiz from personal experiences and acknowledge that all books are a primary source of learning. 
 
@@ -75,3 +77,5 @@ This post is not the correct approach to understand the concepts of machine lear
 [7] Use Google.
 
 Forum for open source machine learning software is [here](http://www.mloss.org/software/).
+
+<hr/>
