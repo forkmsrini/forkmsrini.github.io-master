@@ -1,7 +1,7 @@
 ---
-layout: posts
-title: Supervised learning vs. Unsupervised learning : Explained! 
-comment: True
+layout: post
+title: Supervised learning vs. Unsupervised learning : Explained! [Tech]
+comments: True
 ---
 
 Local Author : Foreign Author :: Supervised Learning : Unsupervised Learning 
