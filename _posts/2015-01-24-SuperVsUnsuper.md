@@ -8,7 +8,7 @@ Local Author : Foreign Author :: Supervised Learning : Unsupervised Learning
 
 I will attempt to explain how I first perceived the concept and difference between supervised and unsupervised learning initially. 
 
-######Appendix
+<h6>Appendix</h6>
 
 Training Data: a set of all data points used for learning.
 
