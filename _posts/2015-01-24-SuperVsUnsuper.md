@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supervised learning vs. Unsupervised learning : Explained! [Tech]
+title: Supervised Vs. Unsupervised Learning. Explained!
 comments: True
 ---
 
