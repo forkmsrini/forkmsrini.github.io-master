@@ -16,7 +16,7 @@ I wish to go back some day, and settle here for good.
 <tr>
 <td><a href='http://commons.wikimedia.org/wiki/File:Mannargudi_temple.jpg#mediaviewer/File:Mannargudi_temple.jpg'><img src='/public/images/Mannargudi_temple.jpg' width='400'></a></td>
 </tr>
-<tr> <td>"Mannargudi temple" by Chitrinee</td></tr>
+<tr> <td>Mannargudi temple by Chitrinee</td></tr>
 </table></div>
 <hr/>
 
