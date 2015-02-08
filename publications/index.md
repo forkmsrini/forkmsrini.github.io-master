@@ -36,5 +36,6 @@ Projects & activities through various collaborations that have lead to an public
 <table text-align="center">
 <tr>
 <td><a href='http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en'><img src='/public/images/GoogleScholar.png' width='200' border='0'></a></td>
+<td><a href='http://www.informatik.uni-trier.de/~ley/pers/hy/s/Srinivasan:Mukundhan'><img src='/public/images/dblpLogo.png' width='200' border='0'></a></td>
 </tr></table></div>
 <hr/>

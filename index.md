@@ -29,7 +29,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 
 <h3>Research Interest</h3>
 
-I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me. 
+I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me.
 
 I would like to explore topics like optimization of large-scale learning, design of  multi-agent systems (DAI) and adaptive algorithms for game/mechanism design. Basically, I seek to narrow down on potential hypothesis that I want to persue at my doctoral level research.   
 
@@ -39,6 +39,7 @@ A wordle of my interests.
 <h3>Other Interest</h3>
 
 I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favourite artist. I'm learning some parts of [Yajurveda](http://en.wikipedia.org/wiki/Yajurveda) (यजुर्वेदः), and [Naalayira Divya Prabhandham](http://en.wikipedia.org/wiki/Naalayira_Divya_Prabhandham) (நாலாயிரத் திவ்வியப் பிரபந்தம்). 
+I'm interested in Psephology. I welcome discussion on Indian philosophies like Sanathana Dharmam. 
 
-I volunteer at the local [IEEE](http://bcp.ieeebangalore.org/) section.
+I enjoying volunteering at the local [IEEE](http://bcp.ieeebangalore.org/) section and SIAM chapter.
 <hr/>
