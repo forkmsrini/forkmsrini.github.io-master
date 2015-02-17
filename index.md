@@ -13,7 +13,7 @@ permalink: /
 </div>
 
 
-<h3>Work</h3>
+<h3>Work</h3> 
 
 I currently work as a Project Assistant at the [Medical Intelligence and Language Engineering (MILE) Lab](http://mile.ee.iisc.ernet.in/mile/index.html), [Department of Electrical Engineering](http://www.ee.iisc.ernet.in/), [Indian Institute of Science (IISc)](http://www.iisc.ernet.in/), Bangalore. 
 
@@ -27,7 +27,7 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 
 <hr/>
 
-<h3>Research Interest</h3>
+<h3>Research Interest <i class="fa fa-spinner fa-pulse"></i></h3>
 
 I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me.
 
@@ -38,8 +38,8 @@ A wordle of my interests.
 
 <h3>Other Interest</h3>
 
-I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favourite artist. I'm learning some parts of [Yajurveda](http://en.wikipedia.org/wiki/Yajurveda) (यजुर्वेदः), and [Naalayira Divya Prabhandham](http://en.wikipedia.org/wiki/Naalayira_Divya_Prabhandham) (நாலாயிரத் திவ்வியப் பிரபந்தம்). 
-I'm interested in Psephology. I welcome discussion on Indian philosophies like Sanathana Dharmam. 
+I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favourite artist. I'm learning some parts of [Yajurveda](http://en.wikipedia.org/wiki/Yajurveda) (यजुर्वेदः), and [Naalayira Divya Prabhandham](http://en.wikipedia.org/wiki/Naalayira_Divya_Prabhandham) (நாலாயிரத் திவ்வியப் பிரபந்தம்). I welcome discussion on Indian philosophies like Sanathana Dharmam. 
+I'm interested in Psephology.  
 
-I enjoying volunteering at the local [IEEE](http://bcp.ieeebangalore.org/) section and SIAM chapter.
+I enjoying volunteering at the local [IEEE](http://www.ieee.org/index.html) ([Madras](ewh.ieee.org/r10/madras/) and [Bangalore](http://bcp.ieeebangalore.org/)) sections and [IISc-SIAM chapter](http://www.iiscsiam.github.io).
 <hr/>

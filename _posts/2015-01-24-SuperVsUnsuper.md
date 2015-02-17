@@ -42,9 +42,9 @@ Unsupervised learning is like preparing from a foreign author book. 'Units' are 
 
 In both cases, the quiz is the testing set, literally. The contents of the quiz is unknown while preparing. The type of content available from the two types of books, defines the method of learning. Naturally, unsupervised learning leads to more cumulative knowledge gain. Supervised learning serves the purpose of passing the course. Both are essential given the influence of many external parameters. 
 
-Another perspective to understand the difference between the two methods is considering the grading system. If there is a specific score indicated to pass the quiz, the method used would be supervised learning. As there is a boundary between passing and failing, there shall be no uncertainty. All candidates securing (lets say) 50 points, pass and those who don't fail. Clearly there are two class of results. Classifying candidates into any one of the classes is straight forward.
+<!-- Another perspective to understand the difference between the two methods is considering the grading system. If there is a specific score indicated to pass the quiz, the method used would be supervised learning. As there is a boundary between passing and failing, there shall be no uncertainty. All candidates securing (lets say) 50 points, pass and those who don't fail. Clearly there are two class of results. Classifying candidates into any one of the classes is straight forward.
 
-In unsupervised learning, the result is candidate dependent. The result may be derived from previous aggregates or may depend on the class average. In such case, the group is divided into classes where candidates may pass the course in the later quiz, candidates who have passed the course and candidates who have unfortunately failed to collect the required credits. Candidates are grouped into clusters.
+In unsupervised learning, the result is candidate dependent. The result may be derived from previous aggregates or may depend on the class average. In such case, the group is divided into classes where candidates may pass the course in the later quiz, candidates who have passed the course and candidates who have unfortunately failed to collect the required credits. Candidates are grouped into clusters. -->
 
 ###Algorithms
 
