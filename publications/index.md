@@ -14,7 +14,7 @@ permalink: /publications/
 <hr/>
 
 ###Journal Papers
-* *Srinivasan, M.;*  "SV-M/D: Support Vector Machine-Singular Value Decomposition Based Face Recognition," Advances in Intelligent and Soft Computing Series, Springer International Publishing.
+
 
 <hr/>
 
@@ -29,11 +29,11 @@ Projects & activities through various collaborations that have lead to an public
 * *Srinivasan, M.;* Ramesh R.; Vijayakumar S.; and Vijayaraghavan V.; "Low-Cost Cloud-Based Design of Smart Rural Energy Device in Microgrid: Perspective India. An Energy-On-Demand Service for Rural India," 2013 IEEE Conference on Technologies for Sustainability – Engineering and the Environment (SusTech'13), Portland, Ore., USA.
 
 
-<hr/>
+<!-- <hr/>
 <div align="center">
 <table text-align="center">
 <tr>
 <td><a href='http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en'><img src='/public/images/GoogleScholar.png' width='200' border='0'></a></td>
 <td><a href='http://www.informatik.uni-trier.de/~ley/pers/hy/s/Srinivasan:Mukundhan'><img src='/public/images/dblpLogo.png' width='200' border='0'></a></td>
 </tr></table></div>
-<hr/>
+<hr/> -->
