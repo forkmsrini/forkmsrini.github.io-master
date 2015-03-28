@@ -4,13 +4,22 @@ title: Home
 permalink: /
 ---
 
-<div align="centre">
+<div>
+							<marquee behavior="scroll" direction="left"><table text-align="center">
+<tr>
+<td>Vanakkam!!</td><td><img src='/public/images/vanakkam.png' width='33' border='0'></td>
+</tr>
+</table></marquee>
+</div>
+						
+<!--<div align="centre">
 <table text-align="center">
 <tr>
 <td>Vanakkam!!</td><td><img src='/public/images/vanakkam.png' width='33' border='0'></td>
 </tr>
 </table>
 </div>
+-->
 
 
 <h3>Work</h3> 
@@ -29,9 +38,10 @@ I currently work as a Project Assistant at the [Medical Intelligence and Languag
 
 <h3>Research Interest <i class="fa fa-spinner fa-pulse"></i></h3>
 
-I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** with application in Computer Vision and other AI-related tasks. Theoretical aspects of Statistics like probability modelling intrigue me.
+I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** and its applications. Theoretical aspects of Statistics like probability modelling intrigue me.
 
-I would like to explore topics like optimization of large-scale learning, design of  multi-agent systems (DAI) and adaptive algorithms for game/mechanism design. Basically, I seek to narrow down on potential hypothesis that I want to persue at my doctoral level research.   
+<!--I would like to explore topics like optimisation of large-scale learning, design of  multi-agent systems (DAI) and adaptive algorithms for game/mechanism design.-->
+<!-- Basically, I seek to narrow down on potential hypothesis that I want to persue at my doctoral level research.  --> 
 
 A wordle of my interests.
 <img style="float:right" src="/public/images/riWordle.jpg">
@@ -41,5 +51,5 @@ A wordle of my interests.
 I'm an ardent classical music (the Indian flavour) listener. [Maharajapuram Santhanam](http://en.wikipedia.org/wiki/Maharajapuram_Santhanam) is my favourite artist. I'm learning some parts of [Yajurveda](http://en.wikipedia.org/wiki/Yajurveda) (यजुर्वेदः), and [Naalayira Divya Prabhandham](http://en.wikipedia.org/wiki/Naalayira_Divya_Prabhandham) (நாலாயிரத் திவ்வியப் பிரபந்தம்). I welcome discussion on Indian philosophies like Sanathana Dharmam. 
 I'm interested in Psephology.  
 
-I enjoying volunteering at the local [IEEE](http://www.ieee.org/index.html) ([Madras](ewh.ieee.org/r10/madras/) and [Bangalore](http://bcp.ieeebangalore.org/)) sections and [IISc-SIAM chapter](http://www.iiscsiam.github.io).
+I enjoying volunteering at the local [IEEE](http://www.ieee.org/index.html) ([Bangalore](http://bcp.ieeebangalore.org/)) sections and [IISc-SIAM chapter](http://www.iiscsiam.github.io).
 <hr/>

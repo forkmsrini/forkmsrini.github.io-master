@@ -7,7 +7,7 @@ permalink: /contact/
 Email:
 firstName AT mile DOT ee DOT iisc DOT ernet DOT in
 
-<div align="center">
+<!--<div align="center">
 <table text-align="center">
 <tr>
 <tr><td>Find me else where on the web</td></tr>
@@ -20,7 +20,12 @@ firstName AT mile DOT ee DOT iisc DOT ernet DOT in
 </td>
 </tr>
 </table>
-</div>
+</div>-->
+
+Some site that I maintain currently:
+[IISc-SIAM Student chapter website](),
+[IISc-AHS Student chapter website](),
+[2015 ARF]()
 
 <!--Address:
 Room #202, MILE Lab, Department of Electrical Engineering,
