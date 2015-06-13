@@ -21,11 +21,10 @@ firstName AT mile DOT ee DOT iisc DOT ernet DOT in
 </tr>
 </table>
 </div>-->
+<hr/>
 
 Some site that I maintain currently:
-[IISc-SIAM Student chapter website](),
-[IISc-AHS Student chapter website](),
-[2015 ARF]()
+
 
 <!--Address:
 Room #202, MILE Lab, Department of Electrical Engineering,

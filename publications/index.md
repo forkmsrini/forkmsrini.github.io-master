@@ -4,6 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
+<hr/>
+<div align="center">
+<table text-align="center">
+<tr>
+<td><a href='http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en'><img src='/public/images/GoogleScholar.png' width='200' border='0'></a></td>
+<td><a href='http://www.informatik.uni-trier.de/~ley/pers/hy/s/Srinivasan:Mukundhan'><img src='/public/images/dblpLogo.png' width='200' border='0'></a></td>
+</tr></table></div>
+<hr/> 
+
 ###Conference Papers
 * *Srinivasan, M.;* "Using Bayesian Statistics and Gabor Wavelets for Recognition of Human Faces: A Markov Random Field Framework,” The Eighth International Conference on Advances in Pattern Recognition (ICAPR’15), Kolkata, India. 
 * *Srinivasan, M.;*. and Harshitha, P.V.; “Towards Better Veracity For Breast Cancer Detection Using Gabor Wavelets Analysis And Statistical Markov Model,” The 13th International Conference on Control, Automation, Robotics and Vision, (ICARCV’14), Singapore.
@@ -30,12 +39,12 @@ Projects & activities through various collaborations that have lead to an public
 * Ramesh R.; Vijayaraghavan V.; *Srinivasan, M.;* and Vijayakumar S., ``An Avant Garde Augmentation of Quality-of-Service In Rural Microgrids Via Cloud-Based Arduino-Enabled Control and Communication'', The 2013 IEEE Workshop on Environmental, Energy and Structural Monitoring Systems (EESMS'13), Trento, Italy.
 * *Srinivasan, M.;* Ramesh R.; Vijayakumar S.; and Vijayaraghavan V.; ``Low-Cost Cloud-Based Design of Smart Rural Energy Device in Microgrid: Perspective India. An Energy-On-Demand Service for Rural India'', 2013 IEEE Conference on Technologies for Sustainability – Engineering and the Environment (SusTech'13), Portland, Ore., USA.
 
-
 <hr/>
-<div align="center">
-<table text-align="center">
-<tr>
-<td><a href='http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en'><img src='/public/images/GoogleScholar.png' width='200' border='0'></a></td>
-<td><a href='http://www.informatik.uni-trier.de/~ley/pers/hy/s/Srinivasan:Mukundhan'><img src='/public/images/dblpLogo.png' width='200' border='0'></a></td>
-</tr></table></div>
-<hr/> 
+**Disclaimer:**
+This web page contains links to files of articles that may be covered by copyright of the respective publisher. You may read the articles at your convenience through the publisher's website or public libraries. Retrieving, copying, or distributing these files may violate copyright law of the respective publisher.
+<hr/>
+
+
+
+
+
