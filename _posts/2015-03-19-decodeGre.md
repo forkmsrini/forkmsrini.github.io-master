@@ -11,7 +11,7 @@ GRE - Graduate Record Examination. Just Google it, and you'll be flooded with ad
 
 Cracking the GRE. This is such an overrated statement that almost all of us get caught in its rut. Although, the exam is a vital element in securing an admission in an university, it is surely not *the* criteria. Many more things go into getting a visa to study abroad. 
 
-I'm of the opinion that the GRE is a very well thought-out, structured and an simple (not to be confused with easy) examination that tests the understanding of concepts. Yes, its tests your understanding and not the ability to arrive at a solution. Let's break it down to its elements.
+I'm of the opinion that the GRE is a very well thought-out, structured and an simple (not to be confused with easy) examination that tests the understanding of concepts. Yes, it tests your understanding and not the ability to arrive at a solution. Let's break it down to its elements.
 
 **Quants:** This portion deals with the math concepts. The test is designed to capture the process of thinking about the right solution rather than finding the the right answer. The trick is in mastering why the given solution is the correct answer. You don't have to get a hold of solving and arriving at an answer. Although, if you are able to stand the test of time and solve it: you're good. Let's take an example.
 
@@ -21,6 +21,6 @@ So you'll probably know each question can be given a maximum of two minutes more
 
 **Verbs:** This portion of the examination is purely contextual understanding and analysis. The verbs is very mathematical in some sense. Negating a negative word and the likes. But, I realise that, words, independently have no reference to being positive or negative. The context gives you that. Its all in the detail. Let's understand what is to score well.
 
-Well, first of you'll bewildered by amount of new words encountered. So head over to mnemonic.com and pay attention to ways to remember new words. Learning a ton of new words is inevitable. Although it is beneficial to have a large vocabulary, often I found myself making mistakes in answering. I later understood that, words like *although, however, and, but, so, consequently, etc.* had greater impact on perceiving the intended meaning that those difficult words that I would hardly read. Additionally, punctuation marks like :, ;, -, give a lot of information towards finding the right answer.
+Well, first of you'll bewildered by amount of new words encountered. So head over to [mnemonic.com](http://www.mnemonicdictionary.com/) and pay attention to ways to remember new words. Learning a ton of new words is inevitable. Although it is beneficial to have a large vocabulary, often I found myself making mistakes in answering. I later understood that, words like *although, however, and, but, so, consequently, etc.* had greater impact on perceiving the intended meaning that those difficult words that I would hardly read. Additionally, punctuation marks like :, ;, -, give a lot of information towards finding the right answer.
 
 So, in conclusion, to trivialise the intensity, the Graduate Record Examination is all about **why** and not **how**. The correct answer is given as an option after all!

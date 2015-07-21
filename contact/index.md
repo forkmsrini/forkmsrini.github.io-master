@@ -5,9 +5,12 @@ permalink: /contact/
 ---
 
 Email:
-firstName AT mile DOT ee DOT iisc DOT ernet DOT in
+msrini AT marketlearning DOT io
 
-<!--<div align="center">
+I'm always open to work on interesting research problems. If you see overlap of interests, please drop me an email.
+
+<hr/>
+<div align="center">
 <table text-align="center">
 <tr>
 <tr><td>Find me else where on the web</td></tr>
@@ -20,14 +23,14 @@ firstName AT mile DOT ee DOT iisc DOT ernet DOT in
 </td>
 </tr>
 </table>
-</div>-->
+</div>
 <hr/>
-
+<!--
 Some site that I maintain currently:
-
+[IISc-SIAM Student Chapter](http://iiscsiam.github.io/), [IISc-AHS Student Chapter](http://iisc-ahs.github.io/), [Fourth Asian/Australian Rotorcraft Forum Conference](http://arf.vtol.org/), [IEEE WRAP 2015](http://wrap2015.org/), [AFV](http://afvstudios.com/).-->
 
 <!--Address:
 Room #202, MILE Lab, Department of Electrical Engineering,
 Indian Institute of Science, Bangalore, KA 560-012, India.
 -->
-<hr/>
+<!--<hr/>-->

@@ -110,6 +110,12 @@ footer {
   text-align: center;
 }
 
+/* To center images */
+.center {
+    height: 25px;
+    text-align: center;
+}
+
 /*============================================================================*/
 .azul { a { color: $azul-accent-color;
     &:hover { color: darken($azul-accent-color, 30%);
