@@ -34,7 +34,7 @@ permalink: /
 </div>-->
 I'm a Co-Founder + CDE of **[The Things Cloud](http://www.thethingscloud.com/)** and the Founder of  **[Market Learning Labs](http://marketlearning.io)**. 
 
-At MLLabs, we work in the intersection of Computer Science, Statistics, Cognitive Sciences to address and solve business problems. We are a Insights-As-A-Service company that also develop interactive dashboards and APIs for data visualization. TheThingsCloud is an IoT-Big Data pivoted start-up with a flavor of advanced hardware design and artificial intelligence to build smart devices' ecosystems. 
+At MLLabs, we work in the intersection of Computer Science, Statistics, Cognitive Sciences to address and solve business problems. We are a Insights-As-A-Service company that also develop interactive dashboards and APIs for data visualisation. TheThingsCloud is an IoT-Big Data pivoted start-up with a flavour of advanced hardware design and artificial intelligence to build smart devices' ecosystems. 
 
 <div align="center">
 <table text-align="center">
@@ -47,9 +47,19 @@ At MLLabs, we work in the intersection of Computer Science, Statistics, Cognitiv
 </table>
 </div>
 
-A sub-set of the problem that we work on at MLLabs are: predicting online user purchase patters, advertisement optimizers for E-commerce and other Computer Vision and NLP problems. At TTC, we tackle problems like forecasting and analysis of energy consumption patters of solar PV users, models for predicting net-metering dynamic prices and  demand side management using high frequency real-time streaming data.
+A sub-set of the problem that we work on at MLLabs are: predicting online user purchase patters, advertisement optimisers for E-commerce and building learning systems that make data science automatic.  At TTC, we tackle problems like forecasting and analysis of energy consumption patters of solar PV users, models for predicting net-metering dynamic prices and  demand side management using high frequency real-time streaming data.
 
 At both the companies, we exploit the interplay of physical sciences and analytics.
+
+I work with Robert Bosch Centre for Cyber Physical Systems (RBCCPS), Indian Institute of Science on developing systems for the Smart Campus Initiative specifically on water sensors.
+
+<div align="center">
+<table text-align="center">
+<tr>
+<td><a href='http://cps.iisc.ernet.in/page/homepage' target='_blank'><img src='/public/images/rbccps.png' width='400' border='0'></a></td>
+</tr>
+</table>
+</div>
 
 <!--I advise for a friend's E-Commerce start-up as Technology Consultant.  -->
 
