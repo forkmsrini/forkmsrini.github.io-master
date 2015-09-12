@@ -34,12 +34,12 @@ permalink: /
 </div>-->
 I'm a Co-Founder + CDE of **[The Things Cloud](http://www.thethingscloud.com/)** and the Founder of  **[Market Learning Labs](http://marketlearning.io)**. 
 
-At MLLabs, we work in the intersection of Computer Science, Statistics, Cognitive Sciences to address and solve business problems. We are a Insights-As-A-Service company that also develop interactive dashboards and APIs for data visualisation. TheThingsCloud is an IoT-Big Data pivoted start-up with a flavour of advanced hardware design and artificial intelligence to build smart devices' ecosystems. 
+At MLLabs, we work in the intersection of Computer Science, Statistics, Cognitive Sciences to address and solve business problems. We are a Insights-As-A-Service company that also develop interactive dashboards and APIs for data visualization. TheThingsCloud is an IoT-Big Data pivoted start-up with a flavor of advanced hardware design and artificial intelligence to build smart devices' ecosystems. 
 
 <div align="center">
 <table text-align="center">
 <tr>
-<td><a href='http://www.thethingscloud.com/' target='_blank'><img src='/public/images/logoWNameWeb.png' width='400' border='0'></a></td>
+<td><a href='http://www.thethingscloud.com/' target='_blank'><img src='/public/images/thethingscloud.png' width='550' border='0'></a></td>
 </tr>
 <tr>
 <td><a href='http://www.marketlearning.io/' target='_blank'><img src='/public/images/marketLearningLogoDesign.png' width='550' border='0'></a></td>
@@ -47,11 +47,11 @@ At MLLabs, we work in the intersection of Computer Science, Statistics, Cognitiv
 </table>
 </div>
 
-A sub-set of the problem that we work on at MLLabs are: predicting online user purchase patters, advertisement optimisers for E-commerce and building learning systems that make data science automatic.  At TTC, we tackle problems like forecasting and analysis of energy consumption patters of solar PV users, models for predicting net-metering dynamic prices and  demand side management using high frequency real-time streaming data.
+A sub-set of the problems that we work on at MLLabs are: retail analytics, advertisement optimizers for E-commerce and building learning systems that make data science automatic.  At TTC, we tackle problems like forecasting and analysis of energy consumption patterns for solar PV users, models for predicting net-metering & dynamic prices, and trading policy recommendations using high-frequency real-time streaming data.
 
 At both the companies, we exploit the interplay of physical sciences and analytics.
 
-I work with Robert Bosch Centre for Cyber Physical Systems (RBCCPS), Indian Institute of Science on developing systems for the Smart Campus Initiative specifically on water sensors.
+I work with Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), Indian Institute of Science on developing systems for the Smart Campus Initiative specifically on water sensors.
 
 <div align="center">
 <table text-align="center">
@@ -79,9 +79,16 @@ Previously, I worked as a Research Assistant at the [Medical Intelligence and La
 
 Understand the mechanism by which the brain translates environmental signals into intelligent behavior. I'm inquisitive about the working of our brain, its cognitive architecture and would like to build applications using artificial intelligence that mimic the nous. I'm particularly interested in **Machine Learning** and its applications. Theoretical aspects of Statistics like probability modeling intrigue me.
 
+<ul>
+<li>How do we teach ourself about the interactive world?</li>
+<li>How are objects, actions, languages and vision integrated? Can we replicate this do achieve assistive machine intelligence?</li>
+<li>Where and how does data play a role in these processes?</li>
+</ul>
+
+I'm not particularly excited by the empirical success of deep learning and would like to scientifically investigate if we require large number of representations and filters.
 <!--Keywords: Machine Learning, Machine Vision and Statistics.-->
 <!--I would like to explore topics like optimisation of large-scale learning, design of  multi-agent systems (DAI) and adaptive algorithms for game/mechanism design.-->
-<!-- Basically, I seek to narrow down on potential hypothesis that I want to persue at my doctoral level research.  --> 
+<!-- Basically, I seek to narrow down on potential hypothesis that I want to peruse at my doctoral level research.  --> 
 
 A word cloud of my interests.
 <img style="float:right" src="/public/images/riWordle.jpg"/>

@@ -7,8 +7,8 @@
 - url: /publications
   title: Publications
   
-- url: /blog
-  title: musing.toString()
+#- url: /blog
+#  title: musing.toString()
   
 #- url: /books
 #  title: Books
